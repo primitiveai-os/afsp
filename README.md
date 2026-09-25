@@ -37,7 +37,7 @@ AFSP does not make credit, fraud, KYC, or servicing decisions. Those controls st
 
 ## Get involved
 
-- **Read and comment on the spec.** The full technical specification is published on GitHub and open for comment.
+- **Read and comment on the spec.** The full technical specification will be published in this repository and open for comment.
 - **Become a founding endorser.** This requires a letter and a commitment to join the working group. Contact [afsp@primitive.com](mailto:afsp@primitive.com).
 - **Build against it.** The specification, schemas, and worked examples are open to any platform.
 
@@ -64,7 +64,7 @@ AFSP is published under a royalty-free open license.
 
 <!-- TODO: the AFSP site says the standard is published under CC BY 4.0, while this repository's LICENSE is Apache 2.0. Confirm which applies to the specification text and which to code/schemas. -->
 
-[Apache License 2.0](LICENSE)
+See [LICENSE](LICENSE) for terms.
 
 ## Contact
 

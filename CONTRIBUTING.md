@@ -34,4 +34,4 @@ Do not report vulnerabilities in public issues. See [SECURITY.md](SECURITY.md).
 
 ## Licensing
 
-Contributions are accepted under the [Apache License 2.0](LICENSE).
+Contributions are accepted under the terms in this repository's [LICENSE](LICENSE).

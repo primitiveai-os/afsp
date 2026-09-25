@@ -39,7 +39,7 @@ The AFSP Technical Working Group (the "Working Group") maintains the AFSP specif
 
 ## 7. Intellectual property
 
-Contributions are licensed under the Apache License 2.0. [Add patent commitment language if required.]
+Contributions are licensed under the terms in this repository's LICENSE. [Add patent commitment language if required.]
 
 ## 8. Transition to an independent foundation
 
@@ -53,4 +53,3 @@ This charter may be amended by [e.g. two-thirds vote of founding endorsers].
 
 - CIDR Technologies Inc d.b.a Primitive (founding technical author)
 - MX
-- [Endorser]
