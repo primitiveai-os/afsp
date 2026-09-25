@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Working group charter
+    url: https://github.com/primitiveai-os/afsp/blob/main/CHARTER.md
+    about: How the AFSP Technical Working Group operates and how to participate.
