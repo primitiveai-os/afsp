@@ -41,11 +41,16 @@ The AFSP Technical Working Group (the "Working Group") maintains the AFSP specif
 
 Contributions are licensed under the Apache License 2.0. [Add patent commitment language if required.]
 
-## 8. Amendments
+## 8. Transition to an independent foundation
+
+CIDR Technologies Inc d.b.a Primitive has committed to transferring governance of AFSP to an independent non-profit foundation as adoption grows. [Transition triggers and process.]
+
+## 9. Amendments
 
 This charter may be amended by [e.g. two-thirds vote of founding endorsers].
 
 ## Appendix A: Founding endorsers
 
-- Primitive
+- CIDR Technologies Inc d.b.a Primitive (founding technical author)
+- MX
 - [Endorser]
