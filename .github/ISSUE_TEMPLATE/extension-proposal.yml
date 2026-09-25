@@ -1,0 +1,68 @@
+name: Extension proposal
+description: Propose an extension to the AFSP specification for review by the AFSP Technical Working Group.
+title: "[Extension]: "
+labels: ["extension-proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for proposing an extension to AFSP. The AFSP Technical Working Group reviews proposals on a rolling basis.
+        All sections below are required. See [CONTRIBUTING.md](https://github.com/primitiveai-os/afsp/blob/main/CONTRIBUTING.md) for guidance.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: (a) Problem statement and use case
+      description: What problem does this extension solve? Who needs it, and in what scenario?
+    validations:
+      required: true
+
+  - type: textarea
+    id: specification
+    attributes:
+      label: (b) Proposed technical specification
+      description: Describe the proposed changes in enough detail to implement. Link to a draft spec or PR if available.
+    validations:
+      required: true
+
+  - type: textarea
+    id: compatibility
+    attributes:
+      label: (c) Backward compatibility analysis
+      description: How does this affect existing implementations? Note any breaking changes and migration paths.
+    validations:
+      required: true
+
+  - type: textarea
+    id: security
+    attributes:
+      label: (d) Security considerations
+      description: Security risks specific to this extension and how they are mitigated. Do not disclose unpatched vulnerabilities here; see SECURITY.md.
+    validations:
+      required: true
+
+  - type: input
+    id: organization
+    attributes:
+      label: (e) Proposing organization
+      description: Legal or trading name of the proposing organization.
+    validations:
+      required: true
+
+  - type: input
+    id: contact
+    attributes:
+      label: (e) Contact
+      description: Name and email of the primary contact for this proposal.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: Acknowledgements
+      options:
+        - label: I am authorized to submit this proposal on behalf of the organization named above.
+          required: true
+        - label: I agree that contributions accepted into the specification are licensed under the terms in this repository's LICENSE.
+          required: true
