@@ -64,5 +64,5 @@ body:
       options:
         - label: I am authorized to submit this proposal on behalf of the organization named above.
           required: true
-        - label: I agree that contributions accepted into the specification are licensed under the Apache License 2.0.
+        - label: I agree that contributions accepted into the specification are licensed under the terms in this repository's LICENSE.
           required: true
