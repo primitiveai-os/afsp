@@ -39,11 +39,11 @@ The AFSP Technical Working Group (the "Working Group") maintains the AFSP specif
 
 ## 7. Intellectual property
 
-Contributions are licensed under the terms in this repository's LICENSE. [Add patent commitment language if required.]
+Contributions are licensed under the Apache License 2.0 and the AFSP Contributor License Agreement (see legal/cla/). Contributors keep ownership of their patents and grant a royalty-free patent license for their contributions. Primitive's patent position is set out in PATENTS.md.
 
 ## 8. Transition to an independent foundation
 
-CIDR Technologies Inc d.b.a Primitive has committed to transferring governance of AFSP to an independent non-profit foundation as adoption grows. [Transition triggers and process.]
+CIDR Technologies Inc d.b.a Primitive has committed to transferring governance of AFSP to an independent non-profit foundation as adoption grows. Primitive's patents related to AFSP are not transferred to the foundation and remain owned by Primitive (see PATENTS.md). [Transition triggers and process.]
 
 ## 9. Amendments
 

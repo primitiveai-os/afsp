@@ -32,6 +32,10 @@ Founding endorsers have standing participation in the working group. Other organ
 
 Do not report vulnerabilities in public issues. See [SECURITY.md](SECURITY.md).
 
+## Contributor License Agreement
+
+Before we can accept your first pull request, you need to accept the [Individual CLA](legal/cla/INDIVIDUAL.md). A bot will post a link on your pull request. If you contribute on behalf of an organization, it must also sign the [Corporate CLA](legal/cla/CORPORATE.md). Signatories are listed in [SIGNATORIES.md](legal/cla/SIGNATORIES.md).
+
 ## Licensing
 
-Contributions are accepted under the terms in this repository's [LICENSE](LICENSE).
+Contributions are accepted under the [Apache License 2.0](LICENSE). See [PATENTS.md](PATENTS.md) for the patent notice.

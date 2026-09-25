@@ -62,6 +62,8 @@ Primitive has committed to transferring governance to an independent non-profit 
 
 AFSP, including the specification, schemas and example code, is published under the [Apache License 2.0](LICENSE). It is royalty-free and includes a patent grant from the authors and every contributor for their contributions.
 
+See [NOTICE](NOTICE) and the [patent notice](PATENTS.md). Contributors must accept the [Contributor License Agreement](legal/cla/INDIVIDUAL.md).
+
 The license does not grant rights to the AFSP name. Only versions approved by the AFSP Technical Working Group may be called AFSP or claim AFSP conformance.
 
 ## Contact
