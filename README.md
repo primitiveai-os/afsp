@@ -60,11 +60,9 @@ Primitive has committed to transferring governance to an independent non-profit 
 
 ## License
 
-AFSP is published under a royalty-free open license.
+AFSP, including the specification, schemas and example code, is published under the [Apache License 2.0](LICENSE). It is royalty-free and includes a patent grant from the authors and every contributor for their contributions.
 
-<!-- TODO: the AFSP site says the standard is published under CC BY 4.0, while this repository's LICENSE is Apache 2.0. Confirm which applies to the specification text and which to code/schemas. -->
-
-See [LICENSE](LICENSE) for terms.
+The license does not grant rights to the AFSP name. Only versions approved by the AFSP Technical Working Group may be called AFSP or claim AFSP conformance.
 
 ## Contact
 
